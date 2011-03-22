@@ -1,0 +1,9 @@
+#map {
+    border: 1px solid #AAAAAA;
+    height: 80%;
+    left: 100px;
+    position: absolute;
+    right: 20px;
+    top: 80px;
+    width: 80%;
+}

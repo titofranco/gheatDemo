@@ -1,0 +1,59 @@
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:39:21) [GET]
+Rendering map/index
+Completed in 49ms (View: 46, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:40:07) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 38ms (View: 27, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:41:11) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 31ms (View: 24, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:41:58) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 33ms (View: 27, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:42:00) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:44:41) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:45:11) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:45:50) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 101ms (View: 94, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:46:25) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://localhost/map]
+
+
+Processing MapController#index (for 127.0.0.1 at 2011-03-22 11:48:55) [GET]
+Rendering template within layouts/default
+Rendering map/index
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://localhost/map]
