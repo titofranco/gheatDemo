@@ -1,9 +1,9 @@
 #map {
     border: 1px solid #AAAAAA;
-    height: 80%;
+    height: 400px;
+    width: 900px;
     left: 100px;
     position: absolute;
     right: 20px;
-    top: 80px;
-    width: 80%;
+    top: 80px;    
 }
